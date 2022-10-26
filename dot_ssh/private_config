@@ -1,0 +1,6 @@
+AddKeysToAgent yes
+
+Host github.com
+  UpdateHostKeys yes
+
+Include config.d/*
